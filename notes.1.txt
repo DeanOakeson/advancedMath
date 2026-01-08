@@ -1,0 +1,23 @@
+QUATERNIONS
+
+Gosper math paper floating point arithmatic
+"pi is wrong" paper
+"karatsubas algorithm"
+"godels incompletness therom"
+
+
+
+what is a number?
+a quantity of something?
+cardinatlity??
+number is a point on the number plane.
+
+To be equal are seperate names for the same point.
+
+Two recipes that arrive at the same location.
+
+
+MULTIPLICATION IS ROTATION-SCALING
+
+
+
