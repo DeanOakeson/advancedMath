@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate-complete.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-build.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-configure.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-download.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-install.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-patch.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-test.rule"
+		},
+		{
+			"file" : "/home/dean/advancedMath/elipticCurves/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matplotplusplus-populate"
+		],
+		"name" : "matplotplusplus-populate"
+	}
+}
