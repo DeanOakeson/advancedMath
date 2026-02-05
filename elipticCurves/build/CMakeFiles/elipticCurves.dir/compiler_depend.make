@@ -101,9 +101,28 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/c++/15/tr1/poly_hermite.tcc \
   /usr/include/c++/15/tr1/poly_laguerre.tcc \
   /usr/include/c++/15/tr1/riemann_zeta.tcc \
-  /usr/include/c++/15/iostream \
-  /usr/include/c++/15/ostream \
-  /usr/include/c++/15/bits/ostream.h \
+  _deps/matplotplusplus-src/source/matplot/matplot.h \
+  _deps/matplotplusplus-src/source/matplot/util/common.h \
+  _deps/matplotplusplus-src/source/matplot/detail/config.h \
+  _deps/matplotplusplus-build/source/matplot/matplot/detail/exports.h \
+  /usr/include/c++/15/algorithm \
+  /usr/include/c++/15/bits/stl_algo.h \
+  /usr/include/c++/15/bits/algorithmfwd.h \
+  /usr/include/c++/15/initializer_list \
+  /usr/include/c++/15/bits/stl_heap.h \
+  /usr/include/c++/15/bits/uniform_int_dist.h \
+  /usr/include/c++/15/bits/stl_tempbuf.h \
+  /usr/include/c++/15/new \
+  /usr/include/c++/15/bits/exception.h \
+  /usr/include/c++/15/bits/stl_construct.h \
+  /usr/include/c++/15/cstdlib \
+  /usr/include/c++/15/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/15/pstl/execution_defs.h \
+  /usr/include/c++/15/cctype \
+  /usr/include/ctype.h \
+  /usr/include/c++/15/complex \
+  /usr/include/c++/15/sstream \
+  /usr/include/c++/15/istream \
   /usr/include/c++/15/ios \
   /usr/include/c++/15/iosfwd \
   /usr/include/c++/15/bits/stringfwd.h \
@@ -119,12 +138,10 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
   /usr/include/c++/15/exception \
-  /usr/include/c++/15/bits/exception.h \
   /usr/include/c++/15/bits/exception_ptr.h \
   /usr/include/c++/15/bits/cxxabi_init_exception.h \
   /usr/include/c++/15/typeinfo \
   /usr/include/c++/15/bits/hash_bytes.h \
-  /usr/include/c++/15/new \
   /usr/include/c++/15/bits/nested_exception.h \
   /usr/include/c++/15/bits/char_traits.h \
   /usr/include/c++/15/bits/localefwd.h \
@@ -132,8 +149,6 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/c++/15/clocale \
   /usr/include/locale.h \
   /usr/include/x86_64-linux-gnu/bits/locale.h \
-  /usr/include/c++/15/cctype \
-  /usr/include/ctype.h \
   /usr/include/c++/15/bits/ios_base.h \
   /usr/include/c++/15/ext/atomicity.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/gthr.h \
@@ -177,16 +192,13 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/c++/15/bits/refwrap.h \
   /usr/include/c++/15/bits/invoke.h \
   /usr/include/c++/15/bits/range_access.h \
-  /usr/include/c++/15/initializer_list \
   /usr/include/c++/15/bits/basic_string.h \
   /usr/include/c++/15/ext/alloc_traits.h \
   /usr/include/c++/15/bits/alloc_traits.h \
-  /usr/include/c++/15/bits/stl_construct.h \
   /usr/include/c++/15/string_view \
   /usr/include/c++/15/bits/functional_hash.h \
   /usr/include/c++/15/bits/string_view.tcc \
   /usr/include/c++/15/ext/string_conversions.h \
-  /usr/include/c++/15/cstdlib \
   /usr/include/c++/15/cstdio \
   /usr/include/stdio.h \
   /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
@@ -225,23 +237,10 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/x86_64-linux-gnu/c++/15/bits/ctype_inline.h \
   /usr/include/c++/15/bits/locale_facets.tcc \
   /usr/include/c++/15/bits/basic_ios.tcc \
+  /usr/include/c++/15/ostream \
+  /usr/include/c++/15/bits/ostream.h \
   /usr/include/c++/15/bits/ostream.tcc \
-  /usr/include/c++/15/istream \
   /usr/include/c++/15/bits/istream.tcc \
-  _deps/matplotplusplus-src/source/matplot/matplot.h \
-  _deps/matplotplusplus-src/source/matplot/util/common.h \
-  _deps/matplotplusplus-src/source/matplot/detail/config.h \
-  _deps/matplotplusplus-build/source/matplot/matplot/detail/exports.h \
-  /usr/include/c++/15/algorithm \
-  /usr/include/c++/15/bits/stl_algo.h \
-  /usr/include/c++/15/bits/algorithmfwd.h \
-  /usr/include/c++/15/bits/stl_heap.h \
-  /usr/include/c++/15/bits/uniform_int_dist.h \
-  /usr/include/c++/15/bits/stl_tempbuf.h \
-  /usr/include/c++/15/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/15/pstl/execution_defs.h \
-  /usr/include/c++/15/complex \
-  /usr/include/c++/15/sstream \
   /usr/include/c++/15/bits/sstream.tcc \
   /usr/include/c++/15/functional \
   /usr/include/c++/15/bits/std_function.h \
@@ -321,6 +320,7 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
   /usr/include/c++/15/bits/fstream.tcc \
+  /usr/include/c++/15/iostream \
   _deps/matplotplusplus-src/source/matplot/axes_objects/function_line.h \
   _deps/matplotplusplus-src/source/matplot/axes_objects/histogram.h \
   /usr/include/c++/15/optional \
@@ -346,14 +346,8 @@ CMakeFiles/elipticCurves.dir/main.cpp.o: /home/dean/advancedMath/elipticCurves/m
   _deps/matplotplusplus-src/source/matplot/freestanding/histcounts.h \
   _deps/matplotplusplus-src/source/matplot/freestanding/plot.h \
   _deps/matplotplusplus-src/source/matplot/core/figure_registry.h \
-  /usr/include/c++/15/random \
-  /usr/include/c++/15/bits/random.h \
-  /usr/include/x86_64-linux-gnu/c++/15/bits/opt_random.h \
-  /usr/include/c++/15/bits/random.tcc \
   /usr/include/c++/15/stdlib.h
 
-
-/usr/include/c++/15/bits/random.h:
 
 _deps/matplotplusplus-src/source/matplot/axes_objects/surface.h:
 
@@ -372,8 +366,6 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/bars.h:
 _deps/matplotplusplus-src/source/matplot/axes_objects/histogram.h:
 
 /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h:
-
-/usr/include/c++/15/random:
 
 /usr/include/c++/15/fstream:
 
@@ -465,30 +457,6 @@ _deps/matplotplusplus-src/source/matplot/core/figure_registry.h:
 
 /usr/include/c++/15/map:
 
-/usr/include/c++/15/array:
-
-/usr/include/c++/15/bits/localefwd.h:
-
-/usr/include/c++/15/bits/char_traits.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
-
-/usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
-
-/usr/include/c++/15/cstdio:
-
-/usr/include/c++/15/bits/ios_base.h:
-
 /usr/include/c++/15/bits/postypes.h:
 
 /usr/include/c++/15/bits/fstream.tcc:
@@ -501,21 +469,17 @@ _deps/matplotplusplus-src/source/matplot/core/figure_registry.h:
 
 /usr/include/c++/15/iosfwd:
 
-/usr/include/x86_64-linux-gnu/bits/wchar.h:
+_deps/matplotplusplus-src/source/matplot/axes_objects/parallel_lines.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+/usr/include/c++/15/bits/stl_algo.h:
+
+/usr/include/c++/15/bits/range_access.h:
 
 /usr/include/c++/15/ios:
 
-/usr/include/wchar.h:
+/usr/include/c++/15/bits/uniform_int_dist.h:
 
-/usr/include/c++/15/sstream:
-
-_deps/matplotplusplus-src/source/matplot/axes_objects/function_line.h:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/c++/15/bits/locale_classes.tcc:
+/usr/include/features-time64.h:
 
 /usr/include/c++/15/tr1/legendre_function.tcc:
 
@@ -526,6 +490,10 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/function_line.h:
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/c++/15/bits/streambuf_iterator.h:
+
+/usr/include/c++/15/complex:
+
+/usr/include/c++/15/exception:
 
 /usr/include/c++/15/tr1/gamma.tcc:
 
@@ -557,13 +525,27 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/function_line.h:
 
 /usr/include/c++/15/bits/utility.h:
 
+/usr/include/c++/15/pstl/execution_defs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
 /usr/include/c++/15/ext/numeric_traits.h:
+
+_deps/matplotplusplus-build/source/matplot/matplot/detail/exports.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-macros.h:
 
 /usr/include/c++/15/bits/stl_algobase.h:
 
 /usr/include/c++/15/clocale:
+
+/usr/include/linux/close_range.h:
+
+_deps/matplotplusplus-src/source/matplot/detail/config.h:
+
+/usr/include/c++/15/bits/ostream_insert.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
 
 /usr/include/c++/15/bits/stl_iterator.h:
 
@@ -573,7 +555,11 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_lim.h:
 
 /usr/include/alloca.h:
 
-/usr/include/c++/15/bits/cxxabi_init_exception.h:
+/usr/include/c++/15/backward/auto_ptr.h:
+
+/usr/include/c++/15/bits/exception_defines.h:
+
+/usr/include/c++/15/bits/stl_heap.h:
 
 /usr/include/c++/15/bits/stl_iterator_base_funcs.h:
 
@@ -583,13 +569,23 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/15/include/stdarg.h:
-
 _deps/matplotplusplus-src/source/matplot/backend/backend_interface.h:
 
 /usr/include/c++/15/tr1/bessel_function.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/c++/15/cstdio:
+
+_deps/matplotplusplus-src/source/matplot/axes_objects/function_line.h:
+
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+/usr/include/c++/15/bits/locale_classes.tcc:
 
 /usr/include/c++/15/tr1/poly_hermite.tcc:
 
@@ -615,15 +611,17 @@ _deps/matplotplusplus-src/source/matplot/backend/backend_interface.h:
 
 /usr/include/c++/15/pstl/pstl_config.h:
 
+/usr/include/c++/15/algorithm:
+
+/usr/include/c++/15/bits/hash_bytes.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
 /usr/include/c++/15/bits/version.h:
 
 /usr/include/c++/15/bits/concept_check.h:
 
 /usr/include/c++/15/tr1/modified_bessel_func.tcc:
-
-/usr/include/features-time64.h:
-
-/usr/include/c++/15/bits/uniform_int_dist.h:
 
 /home/dean/advancedMath/elipticCurves/main.cpp:
 
@@ -633,6 +631,8 @@ _deps/matplotplusplus-src/source/matplot/backend/backend_interface.h:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
+/usr/include/c++/15/bits/cxxabi_init_exception.h:
+
 /usr/include/c++/15/bits/cpp_type_traits.h:
 
 _deps/matplotplusplus-src/source/matplot/freestanding/axes_functions.h:
@@ -640,6 +640,8 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_functions.h:
 /usr/include/c++/15/bits/basic_string.h:
 
 /usr/include/c++/15/streambuf:
+
+/usr/include/c++/15/initializer_list:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
@@ -651,19 +653,13 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_functions.h:
 
 /usr/include/stdc-predef.h:
 
-/usr/include/c++/15/ext/concurrence.h:
-
-/usr/include/c++/15/bits/exception_ptr.h:
-
 /usr/include/pthread.h:
 
-/usr/include/c++/15/ostream:
-
-/usr/include/c++/15/bits/exception.h:
-
-/usr/include/c++/15/initializer_list:
-
 /usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/ctype.h:
+
+/usr/include/c++/15/bits/locale_facets.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
@@ -675,19 +671,9 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_functions.h:
 
 /usr/include/c++/15/bits/locale_facets.h:
 
+/usr/include/c++/15/bits/algorithmfwd.h:
+
 /usr/include/features.h:
-
-/usr/include/c++/15/exception:
-
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/timex.h:
-
-/usr/include/c++/15/complex:
-
-/usr/include/c++/15/cwchar:
-
-/usr/include/c++/15/bits/stl_function.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/include/stddef.h:
 
@@ -695,15 +681,21 @@ _deps/matplotplusplus-src/source/matplot/freestanding/axes_functions.h:
 
 /usr/include/c++/15/bits/hashtable.h:
 
-/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+/usr/include/c++/15/istream:
 
-/usr/include/c++/15/pstl/execution_defs.h:
+/usr/include/c++/15/concepts:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
+
+/usr/include/c++/15/bits/ptr_traits.h:
+
+/usr/include/c++/15/bits/stl_construct.h:
 
 _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 
@@ -712,6 +704,8 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 /usr/include/c++/15/bits/vector.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/usr/include/c++/15/cctype:
 
 /usr/include/c++/15/numeric:
 
@@ -725,11 +719,15 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 
 /usr/include/c++/15/system_error:
 
-/usr/include/math.h:
+/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/include/c++/15/bits/stl_tempbuf.h:
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
@@ -739,8 +737,6 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 
 /usr/include/linux/posix_types.h:
 
-/usr/include/c++/15/bits/ostream.h:
-
 /usr/include/c++/15/tr1/hypergeometric.tcc:
 
 /usr/include/c++/15/cmath:
@@ -748,6 +744,12 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 /usr/include/stdint.h:
 
 /usr/include/endian.h:
+
+/usr/include/c++/15/bits/stl_bvector.h:
+
+/usr/include/c++/15/bits/stl_pair.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
 /usr/include/c++/15/functional:
 
@@ -759,33 +761,31 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/vectors.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
-/usr/include/c++/15/typeinfo:
+/usr/include/c++/15/debug/assertions.h:
 
 /usr/include/c++/15/bits/std_abs.h:
 
-/usr/include/c++/15/debug/assertions.h:
+/usr/include/c++/15/typeinfo:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
-/usr/include/x86_64-linux-gnu/c++/15/bits/opt_random.h:
-
 /usr/include/c++/15/bits/memory_resource.h:
 
-/usr/include/c++/15/bits/stl_bvector.h:
-
-/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
-/usr/include/c++/15/bits/stl_pair.h:
-
-/usr/include/c++/15/cctype:
-
 /usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/c++/15/tr1/poly_laguerre.tcc:
+
+/usr/include/c++/15/pstl/glue_algorithm_defs.h:
+
+/usr/include/c++/15/bits/charconv.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
 /usr/include/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
 _deps/matplotplusplus-src/source/matplot/freestanding/plot.h:
 
@@ -797,11 +797,39 @@ _deps/matplotplusplus-src/source/matplot/freestanding/plot.h:
 
 /usr/include/c++/15/tr1/ell_integral.tcc:
 
-/usr/include/c++/15/concepts:
+/usr/include/c++/15/cwchar:
 
-/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
+/usr/include/c++/15/bits/stl_function.h:
 
-/usr/include/c++/15/istream:
+/usr/include/c++/15/sstream:
+
+/usr/include/wchar.h:
+
+/usr/include/c++/15/bits/ios_base.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/15/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
+/usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/c++/15/ext/concurrence.h:
+
+/usr/include/c++/15/bits/exception_ptr.h:
+
+/usr/include/c++/15/bits/char_traits.h:
+
+/usr/include/c++/15/bits/localefwd.h:
 
 /usr/include/c++/15/pstl/glue_memory_defs.h:
 
@@ -813,11 +841,11 @@ _deps/matplotplusplus-src/source/matplot/util/keywords.h:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
-/usr/include/c++/15/bits/random.tcc:
+_deps/matplotplusplus-src/source/matplot/matplot.h:
 
-/usr/include/ctype.h:
+/usr/include/c++/15/bits/move.h:
 
-/usr/include/c++/15/bits/locale_facets.tcc:
+/usr/include/x86_64-linux-gnu/c++/15/bits/ctype_inline.h:
 
 _deps/matplotplusplus-src/source/matplot/axes_objects/matrix.h:
 
@@ -832,6 +860,10 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/matrix.h:
 /usr/include/c++/15/ext/string_conversions.h:
 
 /usr/include/c++/15/bits/hashtable_policy.h:
+
+/usr/include/wctype.h:
+
+/usr/include/sched.h:
 
 /usr/include/c++/15/bits/nested_exception.h:
 
@@ -911,18 +943,6 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/matrix.h:
 
 /usr/include/x86_64-linux-gnu/c++/15/bits/c++allocator.h:
 
-/usr/include/c++/15/bits/ostream_insert.h:
-
-/usr/include/x86_64-linux-gnu/bits/errno.h:
-
-/usr/include/sched.h:
-
-/usr/include/wctype.h:
-
-/usr/include/linux/close_range.h:
-
-_deps/matplotplusplus-src/source/matplot/detail/config.h:
-
 /usr/include/c++/15/compare:
 
 /usr/include/c++/15/bits/cxxabi_forced.h:
@@ -931,23 +951,11 @@ _deps/matplotplusplus-src/source/matplot/detail/config.h:
 
 /usr/include/c++/15/backward/binders.h:
 
-/usr/include/c++/15/bits/range_access.h:
-
-/usr/include/c++/15/bits/hash_bytes.h:
-
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
-/usr/include/c++/15/algorithm:
-
 /usr/include/c++/15/bits/alloc_traits.h:
 
 /usr/include/c++/15/bits/stringfwd.h:
 
 /usr/include/c++/15/bits/erase_if.h:
-
-/usr/include/c++/15/bits/ptr_traits.h:
-
-/usr/include/c++/15/bits/stl_construct.h:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
@@ -987,6 +995,8 @@ _deps/matplotplusplus-src/source/matplot/util/contourc.h:
 
 /usr/include/c++/15/tuple:
 
+/usr/include/c++/15/array:
+
 /usr/include/x86_64-linux-gnu/c++/15/bits/error_constants.h:
 
 /usr/include/c++/15/bits/basic_string.tcc:
@@ -1003,39 +1013,17 @@ _deps/matplotplusplus-src/source/matplot/axes_objects/contours.h:
 
 /usr/include/c++/15/bits/stl_vector.h:
 
+/usr/include/c++/15/bits/exception.h:
+
+/usr/include/c++/15/ostream:
+
+/usr/include/c++/15/bits/ostream.h:
+
 /usr/include/c++/15/bits/ostream.tcc:
 
 /usr/include/c++/15/bits/allocated_ptr.h:
 
 /usr/include/c++/15/bits/istream.tcc:
-
-/usr/include/c++/15/bits/move.h:
-
-/usr/include/x86_64-linux-gnu/c++/15/bits/ctype_inline.h:
-
-_deps/matplotplusplus-src/source/matplot/matplot.h:
-
-_deps/matplotplusplus-build/source/matplot/matplot/detail/exports.h:
-
-_deps/matplotplusplus-src/source/matplot/axes_objects/parallel_lines.h:
-
-/usr/include/c++/15/bits/stl_algo.h:
-
-/usr/include/c++/15/bits/algorithmfwd.h:
-
-/usr/include/c++/15/tr1/poly_laguerre.tcc:
-
-/usr/include/c++/15/bits/charconv.h:
-
-/usr/include/c++/15/pstl/glue_algorithm_defs.h:
-
-/usr/include/c++/15/backward/auto_ptr.h:
-
-/usr/include/c++/15/bits/exception_defines.h:
-
-/usr/include/c++/15/bits/stl_heap.h:
-
-/usr/include/c++/15/bits/stl_tempbuf.h:
 
 /usr/include/c++/15/bits/sstream.tcc:
 
